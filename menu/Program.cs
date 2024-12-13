@@ -54,7 +54,7 @@ class Program
                             
                             foreach ( var product in products.Where(w => w.Name == "Soda")) {
                                 product.Count -= 1;
-                                if (product.Count < 1 ) {
+                                if (product.Count < 0 ) {
                                     Console.WriteLine("Soda is Out of Stock");
                                 } else {
                                     Console.WriteLine("......... Dispensing Soda ....");
@@ -65,7 +65,7 @@ class Program
                             // Console.WriteLine(".......... Dispensing Chips ....");
                             foreach ( var product in products.Where(w => w.Name == "Chips")) {
                                 product.Count -= 1;
-                                if (product.Count < 1 ) {
+                                if (product.Count < 0 ) {
                                     Console.WriteLine("Chips is Out of Stock");
                                 } else {
                                     Console.WriteLine("......... Dispensing Soda ....");
@@ -76,7 +76,7 @@ class Program
                             // Console.WriteLine("........... Dispensing IceCream ....");
                             foreach ( var product in products.Where(w => w.Name == "IceCream")) {
                                 product.Count -= 1;
-                                if (product.Count < 1 ) {
+                                if (product.Count < 0 ) {
                                     Console.WriteLine("IceCream is Out of Stock");
                                 } else {
                                     Console.WriteLine("......... Dispensing Soda ....");
