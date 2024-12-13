@@ -51,21 +51,36 @@ class Program
                     switch(CheckOutInput)
                     {
                         case 1:
-                            Console.WriteLine("......... Dispensing Soda ....");
+                            
                             foreach ( var product in products.Where(w => w.Name == "Soda")) {
                                 product.Count -= 1;
+                                if (product.Count < 1 ) {
+                                    Console.WriteLine("Soda is Out of Stock");
+                                } else {
+                                    Console.WriteLine("......... Dispensing Soda ....");
+                                }
                             }
                             break;
                         case 2:
-                            Console.WriteLine(".......... Dispensing Chips ....");
+                            // Console.WriteLine(".......... Dispensing Chips ....");
                             foreach ( var product in products.Where(w => w.Name == "Chips")) {
                                 product.Count -= 1;
+                                if (product.Count < 1 ) {
+                                    Console.WriteLine("Chips is Out of Stock");
+                                } else {
+                                    Console.WriteLine("......... Dispensing Soda ....");
+                                }
                             }
                             break;
                         case 3:
-                            Console.WriteLine("........... Dispensing IceCream ....");
+                            // Console.WriteLine("........... Dispensing IceCream ....");
                             foreach ( var product in products.Where(w => w.Name == "IceCream")) {
                                 product.Count -= 1;
+                                if (product.Count < 1 ) {
+                                    Console.WriteLine("IceCream is Out of Stock");
+                                } else {
+                                    Console.WriteLine("......... Dispensing Soda ....");
+                                }
                             }
                             break;
                         
