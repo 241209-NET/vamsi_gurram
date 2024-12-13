@@ -1,0 +1,15 @@
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\bin\Debug\net8.0\menu.exe
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\bin\Debug\net8.0\menu.deps.json
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\bin\Debug\net8.0\menu.runtimeconfig.json
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\bin\Debug\net8.0\menu.dll
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\bin\Debug\net8.0\menu.pdb
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.AssemblyInfoInputs.cache
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.AssemblyInfo.cs
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.csproj.CoreCompileInputs.cache
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.sourcelink.json
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.dll
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\refint\menu.dll
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.pdb
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\menu.genruntimeconfig.cache
+C:\Users\vamsi\Downloads\dotnetexamples\vamsi_gurram\menu\obj\Debug\net8.0\ref\menu.dll
