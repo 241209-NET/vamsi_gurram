@@ -1,4 +1,4 @@
-# Pokemon Showdown Teams Builder
+# Online University
 
 This is a Full Stack Web App made in .NET to help Users/Students register for Courses in OnlineUniversity.
 
@@ -14,17 +14,13 @@ This is a Full Stack Web App made in .NET to help Users/Students register for Co
 
 ## Tech Stack
 
-- React/JS (Front End)
 - C# (Back End Programming Language)
-- SQL Server (Azure Hosted)
+- SQL Server
 - EF Core (ORM Tech)
 - ASP.NET (Web API Framework)
-- HTML, CSS
-  - Bootstrap? Tailwind?
 
 ## User Stories
 
-- User should be able to login/logout if they already have an account
 - User should be able to register if they do not have an account
 - User should be able to enroll/add any course
 - User should be able to list all the classes he/she enrolled
@@ -35,3 +31,14 @@ This is a Full Stack Web App made in .NET to help Users/Students register for Co
 ## Tables
 
 ![ERD](./OnlineUniversity.png)
+
+## MVP Goals
+
+- Students can register to the Online University
+- Students can enrol to any course
+- Students can un-enroll from any course
+
+## Stretch Goals
+
+- Teachers should also be able to check the list of students enrolled in their class
+- Teachers can teach multiple courses (Currently 1 course - 1 teacher in MVP)
