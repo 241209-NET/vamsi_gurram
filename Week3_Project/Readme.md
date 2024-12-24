@@ -26,7 +26,7 @@ This is a Full Stack Web App made in .NET to help Users/Students register for Co
 
 - User should be able to login/logout if they already have an account
 - User should be able to register if they do not have an account
-- User should be able to register the course
+- User should be able to enroll/add any course
 - User should be able to list all the classes he/she enrolled
 - User should be able to un-enroll the courses.
 - User should be able to list the courses available to enroll into.
