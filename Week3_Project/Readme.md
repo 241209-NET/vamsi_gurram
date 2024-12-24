@@ -34,4 +34,4 @@ This is a Full Stack Web App made in .NET to help Users/Students register for Co
 
 ## Tables
 
-![ERD](./ERD.png)
+![ERD](./OnlineUniversity.png)
