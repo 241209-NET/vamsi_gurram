@@ -41,6 +41,7 @@ public  class Util {
 }
 
 public class Product{
+    // int i;
     public int ItemId {get; set;}
     public string Name {get; set;} = "";
     public int Count {get; set;}
