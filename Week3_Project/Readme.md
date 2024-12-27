@@ -1,6 +1,6 @@
 # Online University
 
-This is a Full Stack Web App made in .NET to help Users/Students register for Courses in OnlineUniversity.
+This is a Backend Web API project developed in .NET that uses SQL server, to help Users/Students register for Courses in OnlineUniversity.
 
 ## Project Members
 
@@ -9,7 +9,7 @@ This is a Full Stack Web App made in .NET to help Users/Students register for Co
 ## Project Requirements
 
 - Application must build and run.
-- Unit Testing (70% code coverage for Services and Models layer)
+- Unit Testing (20% code coverage for Services and Models layer)
 - Backend hosted on Azure Cloud Service
 
 ## Tech Stack
