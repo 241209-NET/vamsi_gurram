@@ -10,7 +10,6 @@ This is a Backend Web API project developed in .NET that uses SQL server, to hel
 
 - Application must build and run.
 - Unit Testing (20% code coverage for Services and Models layer)
-- Backend hosted on Azure Cloud Service
 
 ## Tech Stack
 
