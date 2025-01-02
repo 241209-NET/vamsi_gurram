@@ -13,7 +13,9 @@ public class StudentRepository : IStudentRepository
 
     public IEnumerable<Student> GetAllStudents()
     {
-        return _StudentContext.Students.ToList();
+        return _StudentContext.Students
+                .Include(x => x.Courses)
+                .ToList();
     }
 
     public async Task<Student> AddStudent(Student newStudent)

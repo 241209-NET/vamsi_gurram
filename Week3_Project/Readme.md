@@ -34,10 +34,12 @@ This is a Backend Web API project developed in .NET that uses SQL server, to hel
 ## MVP Goals
 
 - Students can register to the Online University
-- Students can enrol to any course
-- Students can un-enroll from any course
+- List the Courses in the University
+- List the teachers in the University
+- Implement the CRUD Operations to all Models (Student, Course, Teacher)
 
 ## Stretch Goals
 
 - Teachers should also be able to check the list of students enrolled in their class
-- Teachers can teach multiple courses (Currently 1 course - 1 teacher in MVP)
+- Students can enroll to any course
+- Students can un-enroll from any course

@@ -1,6 +1,6 @@
 namespace OnlineUniversity.TEST;
 
-public class UnitTest1
+public class UnitTest2
 {
     [Fact]
     public void Test1()
